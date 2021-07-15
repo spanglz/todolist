@@ -35,42 +35,6 @@ Vue.createApp(App).mount('#app');
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 // let toast = document.querySelector("#liveToast"),
 //     closeBtn = document.querySelector(".btn-close"),
 //     toastText = document.querySelector('.toast-body'),
